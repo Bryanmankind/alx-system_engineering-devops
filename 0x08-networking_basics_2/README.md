@@ -15,5 +15,5 @@ about IP addresses while practicing manipulating them with Bash scripts.
 
 
 * **2. Port listening on localhost**
-  * [2-port_listening_on_localhost](./2-port_listening_on_localhost): Bash script that
+  * [100-port_listening_on_localhost](./100-port_listening_on_localhost): Bash script that
   listens on port `98` on `localhost`.
